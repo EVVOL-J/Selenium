@@ -15,7 +15,7 @@ public class FirstTest {
     }
 
     @Test
-    public void openBroutherTest() {
+    public void openBrowserTest() {
         driver.get("https://www.google.ru/");
     }
 
